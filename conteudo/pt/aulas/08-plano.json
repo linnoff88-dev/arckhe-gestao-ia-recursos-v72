@@ -78,10 +78,10 @@
       "sub": "Painel do trimestre, trocado a cada revisão do curso. Cada item com data, fonte e o tipo de afirmação. Preços mudam em semanas: confira sempre o preço do fornecedor no dia. O método das aulas 1 a 7 não depende de nenhum deles.",
       "passos": [
         {"titulo": "Preços do trimestre", "sub": "por milhão de tokens, entrada/saída",
-         "texto": ["Anthropic: Opus 5.5 a US$ 4/20, 40% menos que o Opus 5 (22/09/2026); Sonnet 5.5 pelo mesmo preço do Sonnet 5, US$ 2/10 (28/09/2026); Fable 5.1 cerca de 25% mais barato por tarefa (01/09/2026). xAI: Grok 4.7 a US$ 2/6 (21/09/2026). Fontes: anúncios e documentação dos fornecedores e imprensa especializada.", "O panorama INEMA lê o trimestre assim: o preço por tarefa cai de 40% a 50% a cada geração. É uma leitura dos anúncios, não uma medição."],
+         "texto": ["Anthropic: Opus 5.5 a US$ 4/20, 40% menos que o Opus 5 (22/09/2026); Sonnet 5.5 pelo mesmo preço do Sonnet 5, US$ 2/10 (28/09/2026); Fable 5.1 cerca de 25% mais barato por tarefa (01/09/2026). xAI: Grok 4.7 a US$ 2/6 (21/09/2026). Fontes: anúncios e documentação dos fornecedores e imprensa especializada.", "O panorama ARCKHÉ lê o trimestre assim: o preço por tarefa cai de 40% a 50% a cada geração. É uma leitura dos anúncios, não uma medição."],
          "exemplo": {"rot": "Para o plano", "texto": "Preço caindo não muda a conta: muda um número dela. Refaça a linha do modelo com o preço do dia e veja quanto mexe no custo por tarefa concluída."}},
         {"titulo": "Como os agentes são cobrados", "sub": "faixas e cobrança por uso",
-         "texto": ["OpenAI: os Workspace Agents, substitutos dos Custom GPTs, passaram a ser cobrados por token (06/07/2026). O GPT-6 chegou a todos os planos em faixas: Luna no gratuito, Sol nos pagos, Astra nos planos Pro, Business e Enterprise (07–08/10/2026).", "Anthropic: os Managed Agents, agentes que trabalham sozinhos por horas, apontam para cobrança por hora de agente, além do token. É a direção que o panorama INEMA de outubro registra, sem data de anúncio na fonte: trate como tendência, não como tabela."],
+         "texto": ["OpenAI: os Workspace Agents, substitutos dos Custom GPTs, passaram a ser cobrados por token (06/07/2026). O GPT-6 chegou a todos os planos em faixas: Luna no gratuito, Sol nos pagos, Astra nos planos Pro, Business e Enterprise (07–08/10/2026).", "Anthropic: os Managed Agents, agentes que trabalham sozinhos por horas, apontam para cobrança por hora de agente, além do token. É a direção que o panorama ARCKHÉ de outubro registra, sem data de anúncio na fonte: trate como tendência, não como tabela."],
          "exemplo": {"rot": "Leitura", "texto": "Faixa de plano e forma de cobrança mudam o orçamento mais do que o preço de tabela. O teto mensal e o limite por tarefa da aula 7 continuam valendo para qualquer forma."}},
         {"titulo": "Abertos e locais", "sub": "custo fixo, outras perguntas",
          "texto": ["O Qwen3.8-27B, aberto, roda em notebook (CNBC, 17/08/2026). Para PME, aberto local significa custo fixo e dado em casa, com manutenção própria e licenças diferentes entre modelos.", "Procedência também entra: em 09/09/2026, NSA, CISA e FBI acusaram DeepSeek, Alibaba, Moonshot e outros de \"destilação em escala\" de modelos americanos (The Register). É acusação de governo, não decisão judicial."],
@@ -195,7 +195,7 @@
       "tipo": "texto",
       "titulo": "Certificação",
       "paragrafos": [
-        "Certificação INEMA de qualificação \"Gestor de IA\", em breve no cert.inema.pro. Não é certificação profissional regulada.",
+        "Certificação ARCKHÉ de qualificação \"Gestor de IA\", em breve no cert.ARCKHÉ.pro. Não é certificação profissional regulada.",
         "Este é o curso G4 da Formação Gestão de IA 2027. Os outros cursos tratam da empresa agêntica (G0), das pessoas (G1), dos processos (G2), dos agentes (G3) e de governar, medir e evoluir (G5), onde fica o projeto final da formação. O bloco 5 da rubrica final, recursos, é este plano."
       ]
     },
@@ -203,9 +203,9 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Área Gestão de IA: a formação e os cursos", "href": "https://eventos.inema.pro/gestao-ia/", "icone": "alvo"},
-        {"t": "G3 · Agentes: contratar, delegar e supervisionar", "href": "https://inematds.github.io/gestao-ia-agentes-v72/", "icone": "usuario"},
-        {"t": "Gestoria: administrar uma operação híbrida de ponta a ponta", "href": "https://inematds.github.io/gestoria/", "icone": "camadas"}
+        {"t": "Área Gestão de IA: a formação e os cursos", "href": "https://eventos.ARCKHÉ.pro/gestao-ia/", "icone": "alvo"},
+        {"t": "G3 · Agentes: contratar, delegar e supervisionar", "href": "https://linnoff88-dev.github.io/ "icone": "usuario"},
+        {"t": "Gestoria: administrar uma operação híbrida de ponta a ponta", "href": "https://linnoff88-dev.github.io/ "icone": "camadas"}
       ]
     }
   ]

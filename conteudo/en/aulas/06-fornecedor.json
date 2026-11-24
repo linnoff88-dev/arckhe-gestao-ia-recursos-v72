@@ -100,7 +100,7 @@
           "detalhe": "Run the 20 cases from lesson 2 on the registered alternative, without changing the operation. It takes an afternoon and shows whether the plan is real or just paper. If the rehearsal fails, the plan gets fixed while there is still time."
         }
       ],
-      "legenda": "Principle of the Gestoria method (INEMA): choose models by evidence on real tasks, without depending on one vendor. Horizonte: fictional study company."
+      "legenda": "Principle of the Gestoria method (ARCKHÉ): choose models by evidence on real tasks, without depending on one vendor. Horizonte: fictional study company."
     },
     {
       "tipo": "passos",
@@ -128,7 +128,7 @@
           ],
           "exemplo": {
             "rot": "Reading",
-            "texto": "It's not one vendor's problem: it's the pace of the market. INEMA's October overview records products being discontinued and rules changing within months."
+            "texto": "It's not one vendor's problem: it's the pace of the market. ARCKHÉ's October overview records products being discontinued and rules changing within months."
           }
         },
         {
@@ -191,7 +191,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Hora's model vendor plan to practice on; the plan for one of your own vendors for real.",
-      "fonte": "Lab pieces: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">Hora's configuration</a> and <a href=\"https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/\">customer service summary (F10)</a>.",
+      "fonte": "Lab pieces: <a href=\"https://linnoff88-dev.github.io/ configuration</a> and <a href=\"https://linnoff88-dev.github.io/ service summary (F10)</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -288,17 +288,17 @@
       "links": [
         {
           "t": "Horizonte Lab: the service summary on a free service (F10, fictional study company)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "nuvem"
         },
         {
           "t": "AI Management Area: the nine management objects of the 2027 manager",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "Professional 2030 Base: the vendor and where the data can go",
-          "href": "https://inematds.github.io/prof2030-base/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         }
       ]

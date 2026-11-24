@@ -162,7 +162,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "El inventario de Horizonte para practicar; el de tu equipo para que valga.",
-      "fonte": "Piezas del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">inventario de TI y encuesta interna (F12)</a> y <a href=\"https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/\">resumen de atención (F10)</a>.",
+      "fonte": "Piezas del laboratorio: <a href=\"https://linnoff88-dev.github.io/ de TI y encuesta interna (F12)</a> y <a href=\"https://linnoff88-dev.github.io/ de atención (F10)</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -260,17 +260,17 @@
       "links": [
         {
           "t": "Laboratorio Horizonte: inventario de TI y encuesta interna (F12, empresa ficticia de estudio)",
-          "href": "https://inematds.github.io/prof2030-lab/inventario.html",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         },
         {
           "t": "Laboratorio Horizonte: el resumen de atención (F10)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "nuvem"
         },
         {
           "t": "Profissional 2030 Base: confiar en lo que construye la IA (LGPD y a dónde va el dato)",
-          "href": "https://inematds.github.io/prof2030-base/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         }
       ]

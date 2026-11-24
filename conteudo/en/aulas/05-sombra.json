@@ -162,7 +162,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Horizonte's inventory to practice on; your team's for real.",
-      "fonte": "Lab pieces: <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">IT inventory and internal survey (F12)</a> and <a href=\"https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/\">service summary (F10)</a>.",
+      "fonte": "Lab pieces: <a href=\"https://linnoff88-dev.github.io/ inventory and internal survey (F12)</a> and <a href=\"https://linnoff88-dev.github.io/ summary (F10)</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -260,17 +260,17 @@
       "links": [
         {
           "t": "Laboratório Horizonte: IT inventory and internal survey (F12, fictional study company)",
-          "href": "https://inematds.github.io/prof2030-lab/inventario.html",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         },
         {
           "t": "Laboratório Horizonte: the customer service summary (F10)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "nuvem"
         },
         {
           "t": "Profissional 2030 Base: trusting what AI builds (LGPD and where the data goes)",
-          "href": "https://inematds.github.io/prof2030-base/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         }
       ]

@@ -106,7 +106,7 @@
         "texto": "Sumando todo, el mes costó R$ 4.542 para 680 pedidos: R$ 6,68 por pedido. La factura del modelo es solo el 24% de eso. El número que muestra el panel (R$ 0,31) es real, pero responde a otra pregunta.",
         "curto": "R$ 4.542 ÷ 680 = R$ 6,68"
       },
-      "legenda": "Horizonte Distribuidora, empresa ficticia de estudio: todos los valores son ficticios. La cuenta sigue el indicador \"costo total del proceso\" del método Gestoria (INEMA)."
+      "legenda": "Horizonte Distribuidora, empresa ficticia de estudio: todos los valores son ficticios. La cuenta sigue el indicador \"costo total del proceso\" del método Gestoria (ARCKHÉ)."
     },
     {
       "tipo": "passos",
@@ -197,7 +197,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "La cuenta de Hora para practicar; la de tu proceso para valer.",
-      "fonte": "Volumen del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">panel de Hora</a> (cerca de 900 atenciones y 170 pedidos por semana en octubre). Valores en reales: ficticios, de esta clase.",
+      "fonte": "Volumen del laboratorio: <a href=\"https://linnoff88-dev.github.io/ de Hora</a> (cerca de 900 atenciones y 170 pedidos por semana en octubre). Valores en reales: ficticios, de esta clase.",
       "exercicios": [
         {
           "id": "e1",
@@ -306,17 +306,17 @@
       "links": [
         {
           "t": "Laboratorio Horizonte: el panel de Hora (empresa ficticia de estudio)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "grafico"
         },
         {
           "t": "Área Gestión de IA: el gerente de 2027 y la economía de los agentes",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "Gestión de IA: el plan del curso, con el método y los indicadores",
-          "href": "https://inematds.github.io/curso-gestao-ia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         }
       ]

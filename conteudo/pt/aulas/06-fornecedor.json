@@ -37,7 +37,7 @@
          "itens": [{"icone": "check", "t": "20 casos no alternativo", "sub": "sem trocar nada"}],
          "detalhe": "Rode os 20 casos da aula 2 na alternativa registrada, sem mudar a operação. Leva uma tarde e mostra se o plano é real ou só papel. Se o ensaio falha, o plano é corrigido enquanto ainda há tempo."}
       ],
-      "legenda": "Princípio do método Gestoria (INEMA): escolher modelos por evidência em tarefas reais, sem depender de um fornecedor. Horizonte: empresa fictícia de estudo."
+      "legenda": "Princípio do método Gestoria (ARCKHÉ): escolher modelos por evidência em tarefas reais, sem depender de um fornecedor. Horizonte: empresa fictícia de estudo."
     },
     {
       "tipo": "passos",
@@ -49,7 +49,7 @@
          "exemplo": {"rot": "Na Horizonte (fictício)", "texto": "A constituição da Hora só existia digitada no painel da plataforma de WhatsApp. Agora está no arquivo da empresa, versão 2.0, com a Patrícia como dona; o painel recebe uma cópia."}},
         {"titulo": "Leia os sinais", "sub": "e o ciclo curto dos produtos",
          "texto": ["Sinais de que você está ficando preso: histórico que não exporta, configuração que só funciona ali, preço que cresce com o uso sem teto, desconto em troca de contrato longo, processo dependendo de recurso em teste.", "Produto sai de linha. A OpenAI informa que o Agent Builder e os Evals do AgentKit serão desativados em 30/11/2026, com migração para o Agents SDK ou os Workspace Agents (anúncio do fornecedor). Quem montou agente ali tem prazo para refazer."],
-         "exemplo": {"rot": "Leitura", "texto": "Não é problema de um fornecedor: é o ritmo do mercado. O panorama INEMA de outubro registra produtos saindo de linha e regras mudando em meses."}},
+         "exemplo": {"rot": "Leitura", "texto": "Não é problema de um fornecedor: é o ritmo do mercado. O panorama ARCKHÉ de outubro registra produtos saindo de linha e regras mudando em meses."}},
         {"titulo": "Escreva os gatilhos", "sub": "com número, antes do aviso",
          "texto": ["Gatilho bom é verificável: \"preço sobe mais de 30%\", \"aviso de descontinuação\", \"os termos passam a permitir treinar com nossos dados\", \"mais de 1 crítico nos 20 casos depois de uma troca de versão\".", "Um gatilho pode já ter disparado sem ninguém notar. Revise os fornecedores do inventário da aula 5 com a lista na mão."],
          "exemplo": {"rot": "Na Horizonte", "texto": "O serviço gratuito do resumo diário (F10) já está com o gatilho disparado: sem contrato e com termos que permitem treinar com as conversas. Ele vai direto para o plano de troca."}},
@@ -77,7 +77,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "O plano do fornecedor do modelo da Hora para treinar; o de um fornecedor seu para valer.",
-      "fonte": "Peças do laboratório: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">configuração da Hora</a> e <a href=\"https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/\">resumo de atendimento (F10)</a>.",
+      "fonte": "Peças do laboratório: <a href=\"https://linnoff88-dev.github.io/ da Hora</a> e <a href=\"https://linnoff88-dev.github.io/ de atendimento (F10)</a>.",
       "exercicios": [
         {"id": "e1", "titulo": "1 · O plano da Hora", "min": "30 min",
          "texto": "Preencha o plano de saída do fornecedor do modelo da Hora com o modelo, usando as peças das aulas 2 a 4 como \"o que é nosso\". Depois escreva uma linha extra para o serviço do resumo diário: qual gatilho já disparou e qual é o primeiro passo da troca. Rode o prompt e responda a cada ponto.",
@@ -124,9 +124,9 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Laboratório Horizonte: o resumo de atendimento num serviço gratuito (F10, empresa fictícia de estudo)", "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/", "icone": "nuvem"},
-        {"t": "Área Gestão de IA: os nove objetos de gestão do gerente de 2027", "href": "https://eventos.inema.pro/gestao-ia/", "icone": "alvo"},
-        {"t": "Profissional 2030 Base: o fornecedor e para onde o dado pode ir", "href": "https://inematds.github.io/prof2030-base/", "icone": "escudo"}
+        {"t": "Laboratório Horizonte: o resumo de atendimento num serviço gratuito (F10, empresa fictícia de estudo)", "href": "https://linnoff88-dev.github.io/ "icone": "nuvem"},
+        {"t": "Área Gestão de IA: os nove objetos de gestão do gerente de 2027", "href": "https://eventos.ARCKHÉ.pro/gestao-ia/", "icone": "alvo"},
+        {"t": "Profissional 2030 Base: o fornecedor e para onde o dado pode ir", "href": "https://linnoff88-dev.github.io/ "icone": "escudo"}
       ]
     }
   ]

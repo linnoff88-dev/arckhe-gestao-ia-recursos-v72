@@ -66,7 +66,7 @@
           "detalhe": "Con el escenario pesimista negativo, la decisión honesta es: mantener, medir la línea de base y rehacer la cuenta en un mes. El presupuesto dice cuánto se puede gastar; el ROI estimado dice si vale la pena seguir midiendo."
         }
       ],
-      "legenda": "Fórmulas del método Gestoria (INEMA): beneficio potencial, resultado neto estimado y ROI estimado, con la inversión inicial separada de la recurrente. Horizonte: empresa y valores ficticios de estudio."
+      "legenda": "Fórmulas del método Gestoria (ARCKHÉ): beneficio potencial, resultado neto estimado y ROI estimado, con la inversión inicial separada de la recurrente. Horizonte: empresa y valores ficticios de estudio."
     },
     {
       "tipo": "passos",
@@ -282,7 +282,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "El presupuesto de Horizonte para practicar, el tuyo para valer y la conversación con el dueño para ensayar.",
-      "fonte": "Pieza del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">panel de la Hora (F11, sin línea de base)</a>. Valores en reales: ficticios, de esta clase.",
+      "fonte": "Pieza del laboratorio: <a href=\"https://linnoff88-dev.github.io/ de la Hora (F11, sin línea de base)</a>. Valores en reales: ficticios, de esta clase.",
       "exercicios": [
         {
           "id": "e1",
@@ -397,17 +397,17 @@
       "links": [
         {
           "t": "Laboratorio Horizonte: el panel que empezó junto con el agente (F11, empresa ficticia de estudio)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "grafico"
         },
         {
           "t": "Gestión de IA: el plan del curso (módulo 9, costos y ROI)",
-          "href": "https://inematds.github.io/curso-gestao-ia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         },
         {
           "t": "Gestoria: administrar una operación híbrida de punta a punta",
-          "href": "https://inematds.github.io/gestoria/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         }
       ]

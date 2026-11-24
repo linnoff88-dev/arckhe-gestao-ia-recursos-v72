@@ -35,7 +35,7 @@
          "itens": [{"icone": "usuario", "t": "pessoa decide e faz", "sub": "uma por vez"}],
          "detalhe": "Apagar e-mail, esvaziar lixeira, mudar dado bancário, marcar como pago, mandar para uma lista inteira. O que não se desfaz fica fora do alcance do agente; se a tarefa exigir, é uma pessoa que faz, caso a caso. Corresponde ao vermelho da alçada do G3."}
       ],
-      "legenda": "Módulo 5 do método Gestoria (INEMA): leitura × escrita e escopo mínimo. Os degraus combinam com as cores da alçada do G3 (verde, amarelo, vermelho). Horizonte: empresa fictícia de estudo."
+      "legenda": "Módulo 5 do método Gestoria (ARCKHÉ): leitura × escrita e escopo mínimo. Os degraus combinam com as cores da alçada do G3 (verde, amarelo, vermelho). Horizonte: empresa fictícia de estudo."
     },
     {
       "tipo": "passos",
@@ -75,7 +75,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "Os contratos da Hora e a correção do F9 para treinar; uma ferramenta sua para valer.",
-      "fonte": "Peças do laboratório: <a href=\"https://inematds.github.io/prof2030-lab/pecas/mcp-email/\">assistente de e-mail (F9)</a> e <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">configuração da Hora</a>.",
+      "fonte": "Peças do laboratório: <a href=\"https://linnoff88-dev.github.io/ de e-mail (F9)</a> e <a href=\"https://linnoff88-dev.github.io/ da Hora</a>.",
       "exercicios": [
         {"id": "e1", "titulo": "1 · Dois contratos e o F9", "min": "35 min",
          "texto": "Abra a configuração da Hora e escreva os contratos de consultar_cliente e criar_pedido com o modelo. Depois abra o assistente de e-mail do laboratório, leia a configuração e o registro das últimas ações, e escreva o contrato corrigido: o que fica, o que vira rascunho, o que sai do agente, e o que fazer com as quatro ações já registradas.",
@@ -126,9 +126,9 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Laboratório Horizonte: o assistente de e-mail (F9, empresa fictícia de estudo)", "href": "https://inematds.github.io/prof2030-lab/pecas/mcp-email/", "icone": "enviar"},
-        {"t": "Super-Agentes na prática: menor privilégio e identidade própria", "href": "https://inematds.github.io/agi-pratica/", "icone": "escudo"},
-        {"t": "Gestão de IA: o plano do curso (módulo 5, ferramentas e integrações)", "href": "https://inematds.github.io/curso-gestao-ia/", "icone": "lista"}
+        {"t": "Laboratório Horizonte: o assistente de e-mail (F9, empresa fictícia de estudo)", "href": "https://linnoff88-dev.github.io/ "icone": "enviar"},
+        {"t": "Super-Agentes na prática: menor privilégio e identidade própria", "href": "https://linnoff88-dev.github.io/ "icone": "escudo"},
+        {"t": "Gestão de IA: o plano do curso (módulo 5, ferramentas e integrações)", "href": "https://linnoff88-dev.github.io/ "icone": "lista"}
       ]
     }
   ]

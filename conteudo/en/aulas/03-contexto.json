@@ -100,7 +100,7 @@
           "detalhe": "Tax ID (CPF), the entire customer spreadsheet, another customer's conversation, an expired price table, a draft policy nobody approved. What the agent does not need for the task stays out. It is not only about security: less irrelevant text also means a lower cost per conversation."
         }
       ],
-      "legenda": "Module 4 breakdown of the Gestoria method (INEMA): procedures, examples, rules and retrievable knowledge, with an owner and a version. Horizonte: fictional study company."
+      "legenda": "Module 4 breakdown of the Gestoria method (ARCKHÉ): procedures, examples, rules and retrievable knowledge, with an owner and a version. Horizonte: fictional study company."
     },
     {
       "tipo": "passos",
@@ -196,7 +196,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Patrícia's package is for practice; the one for your area is the real thing.",
-      "fonte": "Source materials: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">Hora's configuration and prompt</a> and <a href=\"https://inematds.github.io/prof2030-lab/pecas/planilha-clientes/\">customer spreadsheet</a> (what should not go into the package).",
+      "fonte": "Source materials: <a href=\"https://linnoff88-dev.github.io/ configuration and prompt</a> and <a href=\"https://linnoff88-dev.github.io/ spreadsheet</a> (what should not go into the package).",
       "exercicios": [
         {
           "id": "e1",
@@ -293,17 +293,17 @@
       "links": [
         {
           "t": "Horizonte Lab: Hora's prompt and configuration (fictional study company)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         },
         {
           "t": "Agent Architect Kit: an agent's specification and context",
-          "href": "https://inematds.github.io/kit-arquiteto-agentes/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "AI Management: the course plan (module 4, context and Skills)",
-          "href": "https://inematds.github.io/curso-gestao-ia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         }
       ]

@@ -170,7 +170,7 @@
           "sub": "per million tokens, input/output",
           "texto": [
             "Anthropic: Opus 5.5 at US$ 4/20, 40% less than Opus 5 (09/22/2026); Sonnet 5.5 at the same price as Sonnet 5, US$ 2/10 (09/28/2026); Fable 5.1 about 25% cheaper per task (09/01/2026). xAI: Grok 4.7 at US$ 2/6 (09/21/2026). Sources: vendor announcements and documentation, and trade press.",
-            "The INEMA overview reads the quarter this way: the price per task drops 40% to 50% with each generation. It is a reading of the announcements, not a measurement."
+            "The ARCKHÉ overview reads the quarter this way: the price per task drops 40% to 50% with each generation. It is a reading of the announcements, not a measurement."
           ],
           "exemplo": {
             "rot": "For the plan",
@@ -182,7 +182,7 @@
           "sub": "tiers and usage-based billing",
           "texto": [
             "OpenAI: Workspace Agents, which replace Custom GPTs, are now billed per token (07/06/2026). GPT-6 reached all plans in tiers: Luna on the free plan, Sol on paid plans, Astra on the Pro, Business and Enterprise plans (10/07–08/2026).",
-            "Anthropic: Managed Agents, agents that work on their own for hours, point toward billing per agent-hour, on top of tokens. That's the direction the INEMA October overview records, with no announcement date in the source: treat it as a trend, not a price list."
+            "Anthropic: Managed Agents, agents that work on their own for hours, point toward billing per agent-hour, on top of tokens. That's the direction the ARCKHÉ October overview records, with no announcement date in the source: treat it as a trend, not a price list."
           ],
           "exemplo": {
             "rot": "Reading",
@@ -426,7 +426,7 @@
       "tipo": "texto",
       "titulo": "Certificate",
       "paragrafos": [
-        "INEMA qualification certificate \"AI Manager\", coming soon at cert.inema.pro. It is not a regulated professional certification.",
+        "ARCKHÉ qualification certificate \"AI Manager\", coming soon at cert.ARCKHÉ.pro. It is not a regulated professional certification.",
         "This is course G4 of the AI Management Program 2027. The other courses cover the agentic company (G0), people (G1), processes (G2), agents (G3), and governing, measuring, and evolving (G5), where the program's final project lives. Block 5 of the final rubric, resources, is this plan."
       ]
     },
@@ -436,17 +436,17 @@
       "links": [
         {
           "t": "AI Management Area: the program and the courses",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "G3 · Agents: hire, delegate, and supervise",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "usuario"
         },
         {
           "t": "Gestoria: running a hybrid operation from end to end",
-          "href": "https://inematds.github.io/gestoria/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         }
       ]

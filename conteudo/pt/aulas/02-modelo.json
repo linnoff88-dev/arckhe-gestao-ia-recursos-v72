@@ -33,7 +33,7 @@
         {"icone": "pasta", "titulo": "Aberto local", "sub": "custo fixo, dado em casa",
          "detalhe": "Modelo de pesos abertos rodando num computador da empresa: custo fixo, o dado não sai, mas alguém precisa manter e a licença de cada modelo tem regras próprias. Exemplo do panorama: o Qwen3.8-27B, aberto, roda em notebook (CNBC, 17/08/2026)."}
       ],
-      "legenda": "Faixas da matriz de modelo por custo de tarefa do panorama de mercado INEMA (out/2026). As faixas mudam de nome e de preço a cada lançamento; a ordem de decisão, não."
+      "legenda": "Faixas da matriz de modelo por custo de tarefa do panorama de mercado ARCKHÉ (out/2026). As faixas mudam de nome e de preço a cada lançamento; a ordem de decisão, não."
     },
     {
       "tipo": "passos",
@@ -73,7 +73,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "O parecer da Hora treina a leitura dos casos; o seu decide uma configuração de verdade.",
-      "fonte": "Conversas de origem: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">agente de WhatsApp do laboratório</a> (c-201 a c-203). Resultados dos 20 casos: fictícios, desta aula.",
+      "fonte": "Conversas de origem: <a href=\"https://linnoff88-dev.github.io/ de WhatsApp do laboratório</a> (c-201 a c-203). Resultados dos 20 casos: fictícios, desta aula.",
       "exercicios": [
         {"id": "e1", "titulo": "1 · O parecer da Hora", "min": "25 min",
          "texto": "Leia as conversas c-201, c-202 e c-203 do laboratório e escreva, para cada uma, a categoria e a resposta certa (elas entram entre os 20 casos). Depois preencha o parecer com os resultados de A e B do passo 3 e a conta da aula 1. Rode o prompt de contestação e responda a cada ponto em uma linha.",
@@ -124,9 +124,9 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Laboratório Horizonte: as conversas da Hora (empresa fictícia de estudo)", "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/", "icone": "chat"},
-        {"t": "Copilot + Agentes para Empresas: conector, fluxo, automação de tela ou agente", "href": "https://inematds.github.io/copilot-agentic/", "icone": "camadas"},
-        {"t": "Gestão de IA: o plano do curso (módulo 3, contratar modelos)", "href": "https://inematds.github.io/curso-gestao-ia/", "icone": "lista"}
+        {"t": "Laboratório Horizonte: as conversas da Hora (empresa fictícia de estudo)", "href": "https://linnoff88-dev.github.io/ "icone": "chat"},
+        {"t": "Copilot + Agentes para Empresas: conector, fluxo, automação de tela ou agente", "href": "https://linnoff88-dev.github.io/ "icone": "camadas"},
+        {"t": "Gestão de IA: o plano do curso (módulo 3, contratar modelos)", "href": "https://linnoff88-dev.github.io/ "icone": "lista"}
       ]
     }
   ]

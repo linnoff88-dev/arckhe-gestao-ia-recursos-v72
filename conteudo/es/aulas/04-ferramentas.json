@@ -88,7 +88,7 @@
           "detalhe": "Borrar correos, vaciar la papelera, cambiar datos bancarios, marcar como pagado, enviar a una lista entera. Lo que no se puede deshacer queda fuera del alcance del agente; si la tarea lo exige, lo hace una persona, caso por caso. Corresponde al rojo del nivel de autorización de G3."
         }
       ],
-      "legenda": "Módulo 5 del método Gestoria (INEMA): lectura × escritura y alcance mínimo. Los niveles combinan con los colores del nivel de autorización de G3 (verde, amarillo, rojo). Horizonte: empresa ficticia de estudio."
+      "legenda": "Módulo 5 del método Gestoria (ARCKHÉ): lectura × escritura y alcance mínimo. Los niveles combinan con los colores del nivel de autorización de G3 (verde, amarillo, rojo). Horizonte: empresa ficticia de estudio."
     },
     {
       "tipo": "passos",
@@ -179,7 +179,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "Los contratos de Hora y la corrección del F9 para practicar; una herramienta tuya de verdad.",
-      "fonte": "Piezas del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/pecas/mcp-email/\">asistente de correo (F9)</a> y <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">configuración de Hora</a>.",
+      "fonte": "Piezas del laboratorio: <a href=\"https://linnoff88-dev.github.io/ de correo (F9)</a> y <a href=\"https://linnoff88-dev.github.io/ de Hora</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -287,17 +287,17 @@
       "links": [
         {
           "t": "Laboratorio Horizonte: el asistente de correo (F9, empresa ficticia de estudio)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/mcp-email/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "enviar"
         },
         {
           "t": "Super-Agentes en la práctica: mínimo privilegio e identidad propia",
-          "href": "https://inematds.github.io/agi-pratica/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         },
         {
           "t": "Gestión de IA: el plan del curso (módulo 5, herramientas e integraciones)",
-          "href": "https://inematds.github.io/curso-gestao-ia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         }
       ]

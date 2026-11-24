@@ -75,7 +75,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "O inventário da Horizonte para treinar; o da sua equipe para valer.",
-      "fonte": "Peças do laboratório: <a href=\"https://inematds.github.io/prof2030-lab/inventario.html\">inventário de TI e pesquisa interna (F12)</a> e <a href=\"https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/\">resumo de atendimento (F10)</a>.",
+      "fonte": "Peças do laboratório: <a href=\"https://linnoff88-dev.github.io/ de TI e pesquisa interna (F12)</a> e <a href=\"https://linnoff88-dev.github.io/ de atendimento (F10)</a>.",
       "exercicios": [
         {"id": "e1", "titulo": "1 · O inventário da Horizonte", "min": "30 min",
          "texto": "Abra o inventário de TI do laboratório e leia as 22 respostas. Ache as ferramentas que não estão na lista oficial. Abra também o resumo de atendimento e confira se ele está no inventário. Preencha o modelo, decida cada linha e escreva a política de uma página da Horizonte.",
@@ -123,9 +123,9 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Laboratório Horizonte: inventário de TI e pesquisa interna (F12, empresa fictícia de estudo)", "href": "https://inematds.github.io/prof2030-lab/inventario.html", "icone": "lista"},
-        {"t": "Laboratório Horizonte: o resumo de atendimento (F10)", "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/", "icone": "nuvem"},
-        {"t": "Profissional 2030 Base: confiar no que a IA constrói (LGPD e para onde o dado vai)", "href": "https://inematds.github.io/prof2030-base/", "icone": "escudo"}
+        {"t": "Laboratório Horizonte: inventário de TI e pesquisa interna (F12, empresa fictícia de estudo)", "href": "https://linnoff88-dev.github.io/ "icone": "lista"},
+        {"t": "Laboratório Horizonte: o resumo de atendimento (F10)", "href": "https://linnoff88-dev.github.io/ "icone": "nuvem"},
+        {"t": "Profissional 2030 Base: confiar no que a IA constrói (LGPD e para onde o dado vai)", "href": "https://linnoff88-dev.github.io/ "icone": "escudo"}
       ]
     }
   ]

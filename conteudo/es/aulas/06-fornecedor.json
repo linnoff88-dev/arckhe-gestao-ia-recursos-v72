@@ -100,7 +100,7 @@
           "detalhe": "Corre los 20 casos de la clase 2 en la alternativa registrada, sin cambiar la operación. Lleva una tarde y muestra si el plan es real o solo papel. Si el ensayo falla, el plan se corrige mientras todavía hay tiempo."
         }
       ],
-      "legenda": "Principio del método Gestoria (INEMA): elegir modelos por evidencia en tareas reales, sin depender de un proveedor. Horizonte: empresa ficticia de estudio."
+      "legenda": "Principio del método Gestoria (ARCKHÉ): elegir modelos por evidencia en tareas reales, sin depender de un proveedor. Horizonte: empresa ficticia de estudio."
     },
     {
       "tipo": "passos",
@@ -128,7 +128,7 @@
           ],
           "exemplo": {
             "rot": "Lectura",
-            "texto": "No es un problema de un proveedor: es el ritmo del mercado. El panorama INEMA de octubre registra productos que salen de línea y reglas que cambian en meses."
+            "texto": "No es un problema de un proveedor: es el ritmo del mercado. El panorama ARCKHÉ de octubre registra productos que salen de línea y reglas que cambian en meses."
           }
         },
         {
@@ -191,7 +191,7 @@
       "tipo": "pratica",
       "titulo": "Práctica",
       "sub": "El plan del proveedor del modelo de Hora para practicar; el de un proveedor tuyo para que valga.",
-      "fonte": "Piezas del laboratorio: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">configuración de Hora</a> y <a href=\"https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/\">resumen de atención (F10)</a>.",
+      "fonte": "Piezas del laboratorio: <a href=\"https://linnoff88-dev.github.io/ de Hora</a> y <a href=\"https://linnoff88-dev.github.io/ de atención (F10)</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -288,17 +288,17 @@
       "links": [
         {
           "t": "Laboratorio Horizonte: el resumen de atención en un servicio gratuito (F10, empresa ficticia de estudio)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/resumo-atendimento/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "nuvem"
         },
         {
           "t": "Área Gestión de IA: los nueve objetos de gestión del gerente de 2027",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "Profesional 2030 Base: el proveedor y hacia dónde puede ir el dato",
-          "href": "https://inematds.github.io/prof2030-base/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         }
       ]

@@ -170,7 +170,7 @@
           "sub": "por millón de tokens, entrada/salida",
           "texto": [
             "Anthropic: Opus 5.5 a US$ 4/20, 40% menos que el Opus 5 (22/09/2026); Sonnet 5.5 al mismo precio que el Sonnet 5, US$ 2/10 (28/09/2026); Fable 5.1 cerca de un 25% más barato por tarea (01/09/2026). xAI: Grok 4.7 a US$ 2/6 (21/09/2026). Fuentes: anuncios y documentación de los proveedores y prensa especializada.",
-            "El panorama INEMA lee el trimestre así: el precio por tarea cae de un 40% a un 50% con cada generación. Es una lectura de los anuncios, no una medición."
+            "El panorama ARCKHÉ lee el trimestre así: el precio por tarea cae de un 40% a un 50% con cada generación. Es una lectura de los anuncios, no una medición."
           ],
           "exemplo": {
             "rot": "Para el plan",
@@ -182,7 +182,7 @@
           "sub": "gamas y cobro por uso",
           "texto": [
             "OpenAI: los Workspace Agents, que sustituyen a los Custom GPTs, pasaron a cobrarse por token (06/07/2026). GPT-6 llegó a todos los planes en gamas: Luna en el gratuito, Sol en los de pago, Astra en los planes Pro, Business y Enterprise (07–08/10/2026).",
-            "Anthropic: los Managed Agents, agentes que trabajan solos por horas, apuntan a un cobro por hora de agente, además del token. Es la dirección que el panorama INEMA de octubre registra, sin fecha de anuncio en la fuente: trátalo como tendencia, no como tabla."
+            "Anthropic: los Managed Agents, agentes que trabajan solos por horas, apuntan a un cobro por hora de agente, además del token. Es la dirección que el panorama ARCKHÉ de octubre registra, sin fecha de anuncio en la fuente: trátalo como tendencia, no como tabla."
           ],
           "exemplo": {
             "rot": "Lectura",
@@ -426,7 +426,7 @@
       "tipo": "texto",
       "titulo": "Certificación",
       "paragrafos": [
-        "Certificación INEMA de cualificación \"Gestor de IA\", próximamente en cert.inema.pro. No es una certificación profesional regulada.",
+        "Certificación ARCKHÉ de cualificación \"Gestor de IA\", próximamente en cert.ARCKHÉ.pro. No es una certificación profesional regulada.",
         "Este es el curso G4 de la Formación Gestión de IA 2027. Los otros cursos tratan de la empresa agéntica (G0), de las personas (G1), de los procesos (G2), de los agentes (G3) y de gobernar, medir y evolucionar (G5), donde está el proyecto final de la formación. El bloque 5 de la rúbrica final, recursos, es este plan."
       ]
     },
@@ -436,17 +436,17 @@
       "links": [
         {
           "t": "Área Gestión de IA: la formación y los cursos",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "G3 · Agentes: contratar, delegar y supervisar",
-          "href": "https://inematds.github.io/gestao-ia-agentes-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "usuario"
         },
         {
           "t": "Gestoria: administrar una operación híbrida de punta a punta",
-          "href": "https://inematds.github.io/gestoria/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         }
       ]

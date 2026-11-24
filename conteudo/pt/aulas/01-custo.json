@@ -39,7 +39,7 @@
          "detalhe": "A separação corrigiu 54 pedidos no mês (item errado, quantidade em galão em vez de caixa), 12 minutos cada: 10,8 horas a R$ 40, R$ 432. Retrabalho é a linha que mais muda quando se troca de modelo, e por isso ela decide a escolha da aula 2."}
       ],
       "rolagem_fim": {"titulo": "R$ 6,68 por pedido concluído", "texto": "Somando tudo, o mês custou R$ 4.542 para 680 pedidos: R$ 6,68 por pedido. A fatura do modelo é só 24% disso. O número que o painel mostra (R$ 0,31) é real, mas responde a outra pergunta.", "curto": "R$ 4.542 ÷ 680 = R$ 6,68"},
-      "legenda": "Horizonte Distribuidora, empresa fictícia de estudo: todos os valores são fictícios. A conta segue o indicador \"custo total do processo\" do método Gestoria (INEMA)."
+      "legenda": "Horizonte Distribuidora, empresa fictícia de estudo: todos os valores são fictícios. A conta segue o indicador \"custo total do processo\" do método Gestoria (ARCKHÉ)."
     },
     {
       "tipo": "passos",
@@ -79,7 +79,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "A conta da Hora para treinar; a do seu processo para valer.",
-      "fonte": "Volume do laboratório: <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">painel da Hora</a> (cerca de 900 atendimentos e 170 pedidos por semana em outubro). Valores em reais: fictícios, desta aula.",
+      "fonte": "Volume do laboratório: <a href=\"https://linnoff88-dev.github.io/ da Hora</a> (cerca de 900 atendimentos e 170 pedidos por semana em outubro). Valores em reais: fictícios, desta aula.",
       "exercicios": [
         {"id": "e1", "titulo": "1 · A conta da Hora", "min": "20 min",
          "texto": "Abra o painel da Hora no laboratório e confira o volume de uma semana. Copie o modelo e preencha a conta de outubro com os valores do diagrama. Depois refaça a conta para o modelo barato que o Rafael testou (fatura R$ 550, Juliana 45 h, 16% de pedidos corrigidos) e escreva, em duas frases, qual dos dois você manteria e por quê.",
@@ -131,9 +131,9 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Laboratório Horizonte: o painel da Hora (empresa fictícia de estudo)", "href": "https://inematds.github.io/prof2030-lab/pecas/painel/", "icone": "grafico"},
-        {"t": "Área Gestão de IA: o gerente de 2027 e a economia dos agentes", "href": "https://eventos.inema.pro/gestao-ia/", "icone": "alvo"},
-        {"t": "Gestão de IA: o plano do curso, com o método e os indicadores", "href": "https://inematds.github.io/curso-gestao-ia/", "icone": "lista"}
+        {"t": "Laboratório Horizonte: o painel da Hora (empresa fictícia de estudo)", "href": "https://linnoff88-dev.github.io/ "icone": "grafico"},
+        {"t": "Área Gestão de IA: o gerente de 2027 e a economia dos agentes", "href": "https://eventos.ARCKHÉ.pro/gestao-ia/", "icone": "alvo"},
+        {"t": "Gestão de IA: o plano do curso, com o método e os indicadores", "href": "https://linnoff88-dev.github.io/ "icone": "lista"}
       ]
     }
   ]

@@ -106,7 +106,7 @@
         "texto": "Adding it all up, the month cost R$ 4,542 for 680 orders: R$ 6.68 per order. The model invoice is only 24% of that. The number the dashboard shows (R$ 0.31) is real, but it answers a different question.",
         "curto": "R$ 4,542 ÷ 680 = R$ 6.68"
       },
-      "legenda": "Horizonte Distribuidora, a fictional study company: all values are fictional. The calculation follows the \"total process cost\" indicator from the Gestoria method (INEMA)."
+      "legenda": "Horizonte Distribuidora, a fictional study company: all values are fictional. The calculation follows the \"total process cost\" indicator from the Gestoria method (ARCKHÉ)."
     },
     {
       "tipo": "passos",
@@ -197,7 +197,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Hora's math to practice on; your own process's math for real.",
-      "fonte": "Lab volume: <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">Hora dashboard</a> (about 900 conversations and 170 orders per week in October). Amounts in reais: fictional, from this lesson.",
+      "fonte": "Lab volume: <a href=\"https://linnoff88-dev.github.io/ dashboard</a> (about 900 conversations and 170 orders per week in October). Amounts in reais: fictional, from this lesson.",
       "exercicios": [
         {
           "id": "e1",
@@ -306,17 +306,17 @@
       "links": [
         {
           "t": "Horizonte Lab: Hora's dashboard (fictional study company)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/painel/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "grafico"
         },
         {
           "t": "AI Management Area: the 2027 manager and the economics of agents",
-          "href": "https://eventos.inema.pro/gestao-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/gestao-ia/",
           "icone": "alvo"
         },
         {
           "t": "AI Management: the course plan, with the method and the indicators",
-          "href": "https://inematds.github.io/curso-gestao-ia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         }
       ]

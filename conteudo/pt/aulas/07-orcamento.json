@@ -33,7 +33,7 @@
         {"icone": "check", "titulo": "Decisão", "sub": "e o que medir",
          "detalhe": "Com o cenário pessimista negativo, a decisão honesta é: manter, medir a linha de base e refazer a conta em um mês. O orçamento diz quanto se pode gastar; o ROI estimado diz se vale continuar medindo."}
       ],
-      "legenda": "Fórmulas do método Gestoria (INEMA): benefício potencial, resultado líquido estimado e ROI estimado, com investimento inicial separado do recorrente. Horizonte: empresa e valores fictícios de estudo."
+      "legenda": "Fórmulas do método Gestoria (ARCKHÉ): benefício potencial, resultado líquido estimado e ROI estimado, com investimento inicial separado do recorrente. Horizonte: empresa e valores fictícios de estudo."
     },
     {
       "tipo": "passos",
@@ -111,7 +111,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "O orçamento da Horizonte para treinar, o seu para valer e a conversa com o dono para ensaiar.",
-      "fonte": "Peça do laboratório: <a href=\"https://inematds.github.io/prof2030-lab/pecas/painel/\">painel da Hora (F11, sem linha de base)</a>. Valores em reais: fictícios, desta aula.",
+      "fonte": "Peça do laboratório: <a href=\"https://linnoff88-dev.github.io/ da Hora (F11, sem linha de base)</a>. Valores em reais: fictícios, desta aula.",
       "exercicios": [
         {"id": "e1", "titulo": "1 · O orçamento da Horizonte", "min": "25 min",
          "texto": "Preencha o modelo com os números da Horizonte, linha por linha, marcando o que é medido e o que é estimado. Confira as três colunas pela fórmula. Rode o prompt do diretor financeiro cético e escreva três incertezas e a decisão.",
@@ -165,9 +165,9 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Laboratório Horizonte: o painel que começou junto com o agente (F11, empresa fictícia de estudo)", "href": "https://inematds.github.io/prof2030-lab/pecas/painel/", "icone": "grafico"},
-        {"t": "Gestão de IA: o plano do curso (módulo 9, custos e ROI)", "href": "https://inematds.github.io/curso-gestao-ia/", "icone": "lista"},
-        {"t": "Gestoria: administrar uma operação híbrida de ponta a ponta", "href": "https://inematds.github.io/gestoria/", "icone": "camadas"}
+        {"t": "Laboratório Horizonte: o painel que começou junto com o agente (F11, empresa fictícia de estudo)", "href": "https://linnoff88-dev.github.io/ "icone": "grafico"},
+        {"t": "Gestão de IA: o plano do curso (módulo 9, custos e ROI)", "href": "https://linnoff88-dev.github.io/ "icone": "lista"},
+        {"t": "Gestoria: administrar uma operação híbrida de ponta a ponta", "href": "https://linnoff88-dev.github.io/ "icone": "camadas"}
       ]
     }
   ]

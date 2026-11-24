@@ -66,7 +66,7 @@
           "detalhe": "An open-weights model running on a company computer: fixed cost, the data does not leave, but someone has to maintain it, and each model's license has its own rules. Example from the overview: the open Qwen3.8-27B runs on a laptop (CNBC, 08/17/2026)."
         }
       ],
-      "legenda": "Tiers of the model matrix by task cost, from the INEMA market overview (Oct/2026). The tiers change names and prices with every release; the order of decision does not."
+      "legenda": "Tiers of the model matrix by task cost, from the ARCKHÉ market overview (Oct/2026). The tiers change names and prices with every release; the order of decision does not."
     },
     {
       "tipo": "passos",
@@ -157,7 +157,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Hora's report trains you to read the cases; yours decides a real configuration.",
-      "fonte": "Source conversations: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">the lab's WhatsApp agent</a> (c-201 to c-203). Results of the 20 cases: fictional, from this lesson.",
+      "fonte": "Source conversations: <a href=\"https://linnoff88-dev.github.io/ lab's WhatsApp agent</a> (c-201 to c-203). Results of the 20 cases: fictional, from this lesson.",
       "exercicios": [
         {
           "id": "e1",
@@ -265,17 +265,17 @@
       "links": [
         {
           "t": "Horizonte Lab: Hora's conversations (fictional study company)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "chat"
         },
         {
           "t": "Copilot + Agents for Business: connector, flow, screen automation or agent",
-          "href": "https://inematds.github.io/copilot-agentic/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "AI Management: the course plan (module 3, contracting models)",
-          "href": "https://inematds.github.io/curso-gestao-ia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         }
       ]

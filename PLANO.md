@@ -1,10 +1,10 @@
 # PLANO — G4 · Recursos: modelos, dados e orçamento (v7.2)
 
-Curso G4 da **Formação Gestão de IA 2027** (área https://eventos.inema.pro/gestao-ia/). Contrato: tabela G4 de `~/projetos/ia-2027/estrategia/CURRICULO-GESTAO-IA-2027.md`. Padrão aprovado: piloto G3 `~/projetos/gestao-ia-agentes-v72` (estrutura de aula, política fictícia, tom). Competência da área: **6 Economia** (e parte da 2 Arquitetura). Objetos de gestão da §06 da área: modelos, ferramentas, permissões, contexto, conhecimento, orçamento computacional.
+Curso G4 da **Formação Gestão de IA 2027** (área https://eventos.ARCKHÉ.pro/gestao-ia/). Contrato: tabela G4 de `~/projetos/ia-2027/estrategia/CURRICULO-GESTAO-IA-2027.md`. Padrão aprovado: piloto G3 `~/projetos/gestao-ia-agentes-v72` (estrutura de aula, política fictícia, tom). Competência da área: **6 Economia** (e parte da 2 Arquitetura). Objetos de gestão da §06 da área: modelos, ferramentas, permissões, contexto, conhecimento, orçamento computacional.
 
 **Aluno:** gestor de área, dono de PME, líder de operações. Não programa: administra os recursos que os agentes consomem.
 **Pergunta do curso (área §06):** não é "quanto custa uma chamada?", é **"quanto custa produzir o resultado?"**.
-**Caso condutor:** Horizonte Distribuidora (`https://inematds.github.io/prof2030-lab/`, empresa fictícia de estudo). O aluno é a **Patrícia Lima, gerente comercial**, responsável pela **Hora** (agente de vendas no WhatsApp). Colegas: Juliana (atendimento), Rafael (TI terceirizada), Carlos (dono).
+**Caso condutor:** Horizonte Distribuidora (`https://linnoff88-dev.github.io/ empresa fictícia de estudo). O aluno é a **Patrícia Lima, gerente comercial**, responsável pela **Hora** (agente de vendas no WhatsApp). Colegas: Juliana (atendimento), Rafael (TI terceirizada), Carlos (dono).
 **Falhas do lab como problemas de gestão:** F9 (assistente de e-mail que envia e apaga sem aprovação → acesso mínimo, aula 4), F12 (IA na sombra → inventário, aula 5), F10 (resumo de atendimento num serviço gratuito sem contrato → fornecedor, aulas 5 e 6), F11 (painel sem linha de base → ROI com incerteza, aula 7), F6 (ordem escondida → erro crítico na comparação de modelos, aula 2).
 **Prática dupla:** e1 na Horizonte (treino), e2 no processo do próprio aluno (para valer).
 
@@ -12,7 +12,7 @@ Curso G4 da **Formação Gestão de IA 2027** (área https://eventos.inema.pro/g
 - `~/projetos/curso-gestao-ia/planejamento/PLANO-CURSO.md` mód. 3 (contratar modelos: 20 casos, parecer, sem ranking, preço conferido no dia), 4 (contexto e Skills: dono e versão, teste ≠ exemplo, política de memória), 5 (ferramentas: leitura × escrita, contrato, idempotência, credencial no servidor), 9.5 (custo total, capacidade liberada, ROI estimado).
 - `METODO.md`: indicadores (custo por caso com tentativas e falhas no numerador; custo total do processo; capacidade liberada ≠ economia), fórmula do ROI estimado, investimento inicial separado do recorrente.
 - `TEMPLATES.md`: 3 Skill, 5 contrato de ferramenta, 9 parecer econômico.
-- Área `~/projetos/inemaeventos/gestao-ia/index.html` §06 (9 objetos, indicadores, "um agente barato que erra e precisa de duas tentativas custou o dobro da tabela").
+- Área `~/projetos/ARCKHÉeventos/gestao-ia/index.html` §06 (9 objetos, indicadores, "um agente barato que erra e precisa de duas tentativas custou o dobro da tabela").
 - `~/projetos/copilot-agentic` (aula 3 do curso: escada conector → fluxo → automação de tela → Computer Use; "custo maior por execução" no degrau de cima).
 - `~/projetos/prof2030-lab`: `pecas/mcp-email/` (F9), `inventario.html` (F12), `pecas/resumo-atendimento/fluxo.json` (F10), `pecas/painel/indicadores.json` (F11: ~700 a ~900 atendimentos e ~140 a ~170 pedidos por semana), `pecas/agente-whatsapp/` (config da Hora, conversas c-201 a c-203), `gabarito.html`.
 - Mercado: `mercado-ia-2026-10.md` §1, §2, §3, §5, §6, §7 e `mercado-gestao-ia-2026-10.md` (só fato sem [incerto]; Sinch fora).
@@ -68,7 +68,7 @@ Mês de referência (4 semanas do painel do lab): **3.600 conversas** e **680 pe
 | 7 | `orcamento` | Orçamento computacional e ROI | montar o orçamento mensal e o ROI estimado da operação em três cenários, com incertezas escritas e sem prometer economia | fluxo: custos → benefício potencial → 3 cenários → incertezas → decisão | e1 orçamento + ROI da Horizonte (−462/+558/+1.578); e2 o seu; e3 simconversa com placar máximo | **simconversa** (Carlos: "quanto vamos economizar?"); Gartner: gasto com governança de IA US$ 492 mi (2026) → mais de US$ 1 bi (2030), previsão (17/02/2026) |
 | 8 | `plano` | Projeto: o plano de recursos + O que mudou | entregar o plano de recursos da área em uma página e aprová-lo pela rubrica, com assinatura de quem não o escreveu | 5 blocos do plano + rubrica → aprovado ou volta | e1 plano da Horizonte aprovado (≥ 75 + 6 obrigatórios); e2 o seu; e3 plano datado | "O que mudou" (preços do trimestre com data), `mapa` (4 degraus) + `gerador` |
 
-Rodapé da aula 8 (seção `texto` "Certificação"): "Certificação INEMA de qualificação 'Gestor de IA', em breve no cert.inema.pro. Não é certificação profissional regulada."
+Rodapé da aula 8 (seção `texto` "Certificação"): "Certificação ARCKHÉ de qualificação 'Gestor de IA', em breve no cert.ARCKHÉ.pro. Não é certificação profissional regulada."
 
 ## A simconversa da aula 7 — "o Carlos quer um número"
 

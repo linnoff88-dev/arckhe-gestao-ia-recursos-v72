@@ -37,7 +37,7 @@
          "itens": [{"icone": "x", "t": "dado desnecessário", "sub": "e versão vencida"}],
          "detalhe": "CPF, planilha inteira de clientes, conversa de outro cliente, tabela vencida, rascunho de política que ninguém aprovou. O que o agente não precisa para a tarefa fica fora. Não é só segurança: menos texto irrelevante também é menos custo por conversa."}
       ],
-      "legenda": "Divisão do módulo 4 do método Gestoria (INEMA): procedimentos, exemplos, regras e conhecimento recuperável, com dono e versão. Horizonte: empresa fictícia de estudo."
+      "legenda": "Divisão do módulo 4 do método Gestoria (ARCKHÉ): procedimentos, exemplos, regras e conhecimento recuperável, com dono e versão. Horizonte: empresa fictícia de estudo."
     },
     {
       "tipo": "passos",
@@ -79,7 +79,7 @@
       "tipo": "pratica",
       "titulo": "Prática",
       "sub": "O pacote da Patrícia para treinar; o da sua área para valer.",
-      "fonte": "Peças de origem: <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">configuração e prompt da Hora</a> e <a href=\"https://inematds.github.io/prof2030-lab/pecas/planilha-clientes/\">planilha de clientes</a> (o que não deve entrar no pacote).",
+      "fonte": "Peças de origem: <a href=\"https://linnoff88-dev.github.io/ e prompt da Hora</a> e <a href=\"https://linnoff88-dev.github.io/ de clientes</a> (o que não deve entrar no pacote).",
       "exercicios": [
         {"id": "e1", "titulo": "1 · O pacote da Patrícia", "min": "30 min",
          "texto": "Abra o prompt da Hora no laboratório e marque o que nele é regra, referência, procedimento ou exemplo (está tudo misturado num texto só). Monte o índice do pacote com o modelo, escreva um procedimento completo e a lista do que fica fora. Inclua a planilha de clientes do laboratório na lista de fora e diga por quê.",
@@ -126,9 +126,9 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Laboratório Horizonte: o prompt e a configuração da Hora (empresa fictícia de estudo)", "href": "https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/", "icone": "arquivo"},
-        {"t": "Kit do Arquiteto de Agentes: especificação e contexto de um agente", "href": "https://inematds.github.io/kit-arquiteto-agentes/", "icone": "camadas"},
-        {"t": "Gestão de IA: o plano do curso (módulo 4, contexto e Skills)", "href": "https://inematds.github.io/curso-gestao-ia/", "icone": "lista"}
+        {"t": "Laboratório Horizonte: o prompt e a configuração da Hora (empresa fictícia de estudo)", "href": "https://linnoff88-dev.github.io/ "icone": "arquivo"},
+        {"t": "Kit do Arquiteto de Agentes: especificação e contexto de um agente", "href": "https://linnoff88-dev.github.io/ "icone": "camadas"},
+        {"t": "Gestão de IA: o plano do curso (módulo 4, contexto e Skills)", "href": "https://linnoff88-dev.github.io/ "icone": "lista"}
       ]
     }
   ]

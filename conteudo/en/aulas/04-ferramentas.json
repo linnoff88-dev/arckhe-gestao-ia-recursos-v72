@@ -88,7 +88,7 @@
           "detalhe": "Delete an email, empty the trash, change bank details, mark as paid, send to an entire list. What can't be undone stays out of the agent's reach; if the task requires it, a person does it, case by case. It matches the red of the G3 authority limit."
         }
       ],
-      "legenda": "Module 5 of the Gestoria method (INEMA): reading × writing and minimum scope. The steps match the colors of the G3 authority limit (green, yellow, red). Horizonte: fictional study company."
+      "legenda": "Module 5 of the Gestoria method (ARCKHÉ): reading × writing and minimum scope. The steps match the colors of the G3 authority limit (green, yellow, red). Horizonte: fictional study company."
     },
     {
       "tipo": "passos",
@@ -179,7 +179,7 @@
       "tipo": "pratica",
       "titulo": "Practice",
       "sub": "Hora's contracts and the F9 fix for practice; a tool of your own for real.",
-      "fonte": "Lab pieces: <a href=\"https://inematds.github.io/prof2030-lab/pecas/mcp-email/\">email assistant (F9)</a> and <a href=\"https://inematds.github.io/prof2030-lab/pecas/agente-whatsapp/\">Hora's configuration</a>.",
+      "fonte": "Lab pieces: <a href=\"https://linnoff88-dev.github.io/ assistant (F9)</a> and <a href=\"https://linnoff88-dev.github.io/ configuration</a>.",
       "exercicios": [
         {
           "id": "e1",
@@ -287,17 +287,17 @@
       "links": [
         {
           "t": "Horizonte Lab: the email assistant (F9, fictional study company)",
-          "href": "https://inematds.github.io/prof2030-lab/pecas/mcp-email/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "enviar"
         },
         {
           "t": "Super-Agents in practice: least privilege and its own identity",
-          "href": "https://inematds.github.io/agi-pratica/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "escudo"
         },
         {
           "t": "AI Management: the course plan (module 5, tools and integrations)",
-          "href": "https://inematds.github.io/curso-gestao-ia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "lista"
         }
       ]
