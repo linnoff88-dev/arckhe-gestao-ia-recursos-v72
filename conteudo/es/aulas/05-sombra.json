@@ -94,7 +94,7 @@
           ],
           "exemplo": {
             "rot": "Los cuatro hallazgos",
-            "texto": "MailResumo lee los correos de finanzas (boletas, proveedores). GravaReunião graba a los clientes sin aviso. El chatbot gratuito recibe la planilla de clientes. PlanilhaGênio tiene acceso a todo el Drive."
+            "texto": "MailResumo lee los correos de finanzas (boletas, proveedores). GravaReuniêo graba a los clientes sin aviso. El chatbot gratuito recibe la planilla de clientes. PlanilhaGênio tiene acceso a todo el Drive."
           }
         },
         {
@@ -149,7 +149,7 @@
         "abas": [
           {
             "rot": "Inventario de Horizonte (ejemplo)",
-            "html": "<p><b>Inventario de IA · comercial y áreas cercanas · oct/2026</b> · Horizonte, empresa ficticia de estudio · responsable: Patrícia con Rafael · encuesta: 22 de 40</p><ol><li><b>Chatbot gratuito, cuenta personal</b> · ventas · propuestas · planilla de clientes · <b>cortar ya</b>; cambiar por IA en cuenta de la empresa con contrato, sin la planilla completa · Patrícia.</li><li><b>GravaReunião</b> · comercial · graba visitas sin aviso · voz y conversación de clientes · <b>cortar la grabación sin aviso</b>; cambiar por notas manuales o una herramienta aprobada con aviso al cliente · Patrícia.</li><li><b>MailResumo</b> (extensión) · finanzas · resumen de boletas · correos de proveedores y valores · <b>cortar</b> y evaluar una alternativa en el correo corporativo · Rafael.</li><li><b>PlanilhaGênio</b> (complemento) · finanzas · fórmulas · acceso a todo el Drive · <b>cortar el acceso</b> ya; evaluar una opción con acceso solo a la planilla · Rafael.</li><li><b>Resumen diario (servicio gratuito)</b> · atención · conversaciones completas con CPF y dirección, fuera de Brasil, sin contrato · <b>suspender y cambiar</b> por un proveedor con contrato y anonimización · Juliana y Rafael.</li></ol><p>2ª ronda con los líderes de los sectores: hasta el 31/10. Próxima encuesta: enero de 2027.</p>"
+            "html": "<p><b>Inventario de IA · comercial y áreas cercanas · oct/2026</b> · Horizonte, empresa ficticia de estudio · responsable: Patrícia con Rafael · encuesta: 22 de 40</p><ol><li><b>Chatbot gratuito, cuenta personal</b> · ventas · propuestas · planilla de clientes · <b>cortar ya</b>; cambiar por IA en cuenta de la empresa con contrato, sin la planilla completa · Patrícia.</li><li><b>GravaReuniêo</b> · comercial · graba visitas sin aviso · voz y conversación de clientes · <b>cortar la grabación sin aviso</b>; cambiar por notas manuales o una herramienta aprobada con aviso al cliente · Patrícia.</li><li><b>MailResumo</b> (extensión) · finanzas · resumen de boletas · correos de proveedores y valores · <b>cortar</b> y evaluar una alternativa en el correo corporativo · Rafael.</li><li><b>PlanilhaGênio</b> (complemento) · finanzas · fórmulas · acceso a todo el Drive · <b>cortar el acceso</b> ya; evaluar una opción con acceso solo a la planilla · Rafael.</li><li><b>Resumen diario (servicio gratuito)</b> · atención · conversaciones completas con CPF y dirección, fuera de Brasil, sin contrato · <b>suspender y cambiar</b> por un proveedor con contrato y anonimización · Juliana y Rafael.</li></ol><p>2ª ronda con los líderes de los sectores: hasta el 31/10. Próxima encuesta: enero de 2027.</p>"
           },
           {
             "rot": "Cómo verificar / errores comunes",

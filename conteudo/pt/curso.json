@@ -3,27 +3,27 @@
   "lang": "pt-BR",
   "url": "https://linnoff88-dev.github.io/
   "nome": "Recursos: modelos, dados e orçamento",
-  "sub": "Formação Gestão de IA 2027 · G4",
+  "sub": "Formaçêo Gestêo de IA 2027 · G4",
   "volta": {
-    "t": "Área Gestão de IA",
+    "t": "Área Gestêo de IA",
     "href": "https://eventos.ARCKHÉ.pro/gestao-ia/"
   },
   "lado_card": {
-    "rot": "Formação Gestão de IA 2027 · G4",
+    "rot": "Formaçêo Gestêo de IA 2027 · G4",
     "t": "Comece pela porta de entrada",
-    "texto": "O G0 mostra a empresa agêntica e o papel do gestor de 2027. Os outros cursos da formação partem dele.",
+    "texto": "O G0 mostra a empresa agêntica e o papel do gestor de 2027. Os outros cursos da formaçêo partem dele.",
     "link": "Ir para o G0",
     "href": "https://linnoff88-dev.github.io/
   },
   "rodape": "ARCKHÉ AI · conteúdo aberto e gratuito · formato ARCKHÉ Learning v7.2 · <a href=\"https://eventos.ARCKHÉ.pro/gestao-ia/\">eventos.ARCKHÉ.pro/gestao-ia</a> · <a href=\"https://linnoff88-dev.github.io/ Horizonte (empresa fictícia de estudo)</a> · <a href=\"https://ARCKHÉ AI/\">ARCKHÉ AI</a>",
   "videos": {},
   "inicio": {
-    "kicker": "Formação Gestão de IA 2027 · G4 · 8 aulas",
+    "kicker": "Formaçêo Gestêo de IA 2027 · G4 · 8 aulas",
     "titulo": "Recursos: modelos, dados e orçamento",
     "lead": "O fornecedor mostra quanto custa cada chamada. O gestor precisa saber quanto custa cada resultado. Em oito aulas você calcula o custo por tarefa concluída, escolhe o modelo pelos seus casos, organiza o conhecimento que o agente lê, dá às ferramentas o acesso mínimo, encontra a IA na sombra, planeja a saída do fornecedor e monta orçamento e ROI estimado sem prometer economia.",
     "cta": "Começar pela aula 1",
     "cta2": {
-      "t": "Ver a área Gestão de IA",
+      "t": "Ver a área Gestêo de IA",
       "href": "https://eventos.ARCKHÉ.pro/gestao-ia/"
     },
     "capa_alt": "Gerente de uma distribuidora revisa, no fim do dia, uma folha de orçamento ao lado de um notebook com gráfico de barras; ao fundo, as prateleiras do estoque.",
@@ -34,16 +34,16 @@
       {"v": "1", "t": "conversa simulada com o dono"}
     ],
     "cursos": {
-      "titulo": "Os 6 cursos da formação",
-      "sub": "Ordem sugerida: G0 → G2 → G3 → G4 → G1 → G5. O G1 (pessoas) pode correr em paralelo, e quem é de RH pode começar por ele. Os seis já estão publicados.",
+      "titulo": "Os 6 cursos da formaçêo",
+      "sub": "Ordem sugerida: G0 → G2 → G3 → G4 → G1 → G5. O G1 (pessoas) pode correr em paralelo, e quem é de RH pode começar por ele. Os seis já estêo publicados.",
       "abrir": "Abrir o curso",
       "itens": [
-        {"rot": "G0 · porta de entrada · publicado", "t": "A empresa agêntica e o gestor de 2027", "l": "O que mudou na gestão, o que dizem as consultorias, o Brasil, a carreira e o seu primeiro processo.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g0.jpg"},
-        {"rot": "G2 · processos · publicado", "t": "Processos: processo não é sagrado", "l": "Desmontar o processo antes de automatizar: eliminar, simplificar, redesenhar e decidir quem faz cada etapa.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g2.jpg"},
-        {"rot": "G3 · agentes · publicado", "t": "Agentes: contratar, delegar e supervisionar", "l": "Cargo, delegação, constituição, alçada, confiança progressiva, equipe de agentes e fila de exceções.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g3.jpg"},
+        {"rot": "G0 · porta de entrada · publicado", "t": "A empresa agêntica e o gestor de 2027", "l": "O que mudou na gestêo, o que dizem as consultorias, o Brasil, a carreira e o seu primeiro processo.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g0.jpg"},
+        {"rot": "G2 · processos · publicado", "t": "Processos: processo nêo é sagrado", "l": "Desmontar o processo antes de automatizar: eliminar, simplificar, redesenhar e decidir quem faz cada etapa.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g2.jpg"},
+        {"rot": "G3 · agentes · publicado", "t": "Agentes: contratar, delegar e supervisionar", "l": "Cargo, delegaçêo, constituiçêo, alçada, confiança progressiva, equipe de agentes e fila de exceções.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g3.jpg"},
         {"rot": "G4 · recursos · você está aqui", "t": "Recursos: modelos, dados e orçamento", "l": "Custo por tarefa concluída, modelo escolhido pelos seus casos, contexto com dono, ferramentas com acesso mínimo, orçamento e saída do fornecedor.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g4.jpg"},
-        {"rot": "G1 · pessoas · publicado", "t": "Pessoas: liderar a equipe híbrida", "l": "O que fica com as pessoas, a conversa sobre mudança, o júnior que supervisiona agentes e a formação da equipe.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g1.jpg"},
-        {"rot": "G5 · fechamento + projeto final · publicado", "t": "Governar, medir e evoluir", "l": "Responsáveis, permissões e registro; avaliação com indicadores; um ciclo LOOP-R e o projeto final da formação.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g5.jpg"}
+        {"rot": "G1 · pessoas · publicado", "t": "Pessoas: liderar a equipe híbrida", "l": "O que fica com as pessoas, a conversa sobre mudança, o júnior que supervisiona agentes e a formaçêo da equipe.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g1.jpg"},
+        {"rot": "G5 · fechamento + projeto final · publicado", "t": "Governar, medir e evoluir", "l": "Responsáveis, permissões e registro; avaliaçêo com indicadores; um ciclo LOOP-R e o projeto final da formaçêo.", "href": "https://linnoff88-dev.github.io/ "href_idioma": true, "img": "assets/img/cursos/g5.jpg"}
       ]
     },
     "aulas_titulo": "As aulas",
@@ -53,25 +53,25 @@
         "t": "Para quem é",
         "itens": [
           "Gestor de área, dono de pequena ou média empresa, líder de operações ou de RH que já tem, ou vai ter, agentes de IA na equipe.",
-          "Quem não programa e não quer programar: aqui você administra o agente. Construir agente é outro curso.",
+          "Quem nêo programa e nêo quer programar: aqui você administra o agente. Construir agente é outro curso.",
           "Quem assina a fatura do agente, ou vai ter de explicar ao dono quanto ele custa e quanto rende."
         ]
       },
       {
         "t": "O que você sai fazendo",
         "itens": [
-          "Calcular o custo por tarefa concluída, com tempo humano e retrabalho, e não só o preço por chamada.",
+          "Calcular o custo por tarefa concluída, com tempo humano e retrabalho, e nêo só o preço por chamada.",
           "Escolher o modelo comparando duas configurações nos seus próprios casos, com parecer e alternativa.",
-          "Manter o conhecimento que o agente lê com dono, versão e validade, e dar às ferramentas só o acesso que a tarefa exige.",
+          "Manter o conhecimento que o agente lê com dono, versêo e validade, e dar às ferramentas só o acesso que a tarefa exige.",
           "Montar o orçamento mensal, o ROI estimado em três cenários e o plano de saída de um fornecedor."
         ]
       },
       {
         "t": "O caso que atravessa o curso",
         "itens": [
-          "A <b>Horizonte Distribuidora</b>, <a href=\"https://linnoff88-dev.github.io/ fictícia de estudo</a> de 40 pessoas que distribui produtos de limpeza no interior de São Paulo.",
+          "A <b>Horizonte Distribuidora</b>, <a href=\"https://linnoff88-dev.github.io/ fictícia de estudo</a> de 40 pessoas que distribui produtos de limpeza no interior de Sêo Paulo.",
           "Você faz o papel da <b>Patrícia Lima, gerente comercial</b>, que responde pela <b>Hora</b>, um agente que vende pelo WhatsApp. O processo é o pedido que chega pelo WhatsApp e vai até o faturamento.",
-          "As falhas plantadas no laboratório (o assistente de e-mail que apaga sem pedir, as ferramentas que a TI não conhece, o painel sem linha de base) viram problemas de gestão. Toda aula tem uma prática na Horizonte e outra no seu próprio processo."
+          "As falhas plantadas no laboratório (o assistente de e-mail que apaga sem pedir, as ferramentas que a TI nêo conhece, o painel sem linha de base) viram problemas de gestêo. Toda aula tem uma prática na Horizonte e outra no seu próprio processo."
         ]
       }
     ]
@@ -90,7 +90,7 @@
     "dg_dica": "Clique em cada bloco do diagrama para ver o que ele faz.",
     "copiar": "Copiar",
     "copiado": "Copiado",
-    "selo_simulacao": "Simulação: exemplo ilustrativo",
+    "selo_simulacao": "Simulaçêo: exemplo ilustrativo",
     "selo_real": "Exemplo do repositório",
     "pronto_quando": "Pronto quando:",
     "fiz": "Fiz este exercício",
@@ -99,8 +99,8 @@
     "de": "de",
     "cert_tag": "competência",
     "correto": "Correto",
-    "errado": "Não é essa",
-    "quiz_aguarda": "Escolha uma alternativa. A explicação aparece depois da sua tentativa.",
+    "errado": "Nêo é essa",
+    "quiz_aguarda": "Escolha uma alternativa. A explicaçêo aparece depois da sua tentativa.",
     "proxima_pergunta": "Próxima pergunta",
     "quiz_ver": "Ver resultado",
     "quiz_fim": "Teste concluído",
@@ -127,7 +127,7 @@
     "baixar_ics": "Baixar para o calendário (.ics)",
     "ind_estudo": "Estudo (aulas)",
     "ind_pratica": "Prática declarada",
-    "ind_nota": "Prática = exercícios que você marcou como feitos. A comprovação vem na prova da certificação.",
+    "ind_nota": "Prática = exercícios que você marcou como feitos. A comprovaçêo vem na prova da certificaçêo.",
     "estudo": {
       "titulo": "Seu estudo",
       "continuar": "Continuar de onde parei",
@@ -140,7 +140,7 @@
       "notas": "Minhas anotações",
       "dados": "Copiar meus dados",
       "sem_testes": "Nenhum teste feito ainda. O teste fica no fim de cada aula.",
-      "nao_fez": "teste ainda não feito",
+      "nao_fez": "teste ainda nêo feito",
       "ultimo": "Último",
       "melhor": "Melhor",
       "tentativas": "tentativas",
@@ -149,21 +149,21 @@
       "rever": "Para rever",
       "resposta": "Resposta certa:",
       "ir_teste": "Refazer o teste",
-      "sem_notas": "Nenhuma anotação ainda. Na aula, selecione um trecho do texto e toque em Marcar ou Anotar.",
+      "sem_notas": "Nenhuma anotaçêo ainda. Na aula, selecione um trecho do texto e toque em Marcar ou Anotar.",
       "so_marcado": "(só marcado)",
       "marcar": "Marcar",
       "anotar": "Anotar",
       "salvar": "Salvar",
       "apagar": "Apagar marca",
       "fechar": "Fechar",
-      "nota_ph": "Escreva sua anotação sobre este trecho…",
+      "nota_ph": "Escreva sua anotaçêo sobre este trecho…",
       "um_bloco": "Marque dentro de um parágrafo só.",
-      "nao_marca": "Este trecho não pode ser marcado.",
-      "dados_exp": "Seu progresso, suas anotações e as notas dos testes ficam só neste navegador. Baixe uma cópia (.json) para guardar ou para continuar em outro computador ou navegador; lá, carregue a cópia. Carregar soma com o que já existe e não apaga nada.",
+      "nao_marca": "Este trecho nêo pode ser marcado.",
+      "dados_exp": "Seu progresso, suas anotações e as notas dos testes ficam só neste navegador. Baixe uma cópia (.json) para guardar ou para continuar em outro computador ou navegador; lá, carregue a cópia. Carregar soma com o que já existe e nêo apaga nada.",
       "exportar": "Baixar cópia",
       "importar": "Carregar cópia",
       "import_ok": "Cópia carregada ({n} itens). Atualizando a página…",
-      "import_erro": "Arquivo não reconhecido. Nada foi alterado.",
+      "import_erro": "Arquivo nêo reconhecido. Nada foi alterado.",
       "import_outro": "Esta cópia é de outro curso. Nada foi alterado.",
       "export_ok": "Cópia baixada."
     },
@@ -175,7 +175,7 @@
     "conv_ruim": "Escolha fraca",
     "conv_fim": "Fim da conversa",
     "conv_placar": "Você fez {p} de {m} pontos possíveis.",
-    "conv_licao": "Lição:",
+    "conv_licao": "Liçêo:",
     "conv_recomecar": "Recomeçar a conversa",
     "conv_feita": "Seu melhor placar: {p} de {m} pontos."
   },

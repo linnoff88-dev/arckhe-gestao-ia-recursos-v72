@@ -94,7 +94,7 @@
           ],
           "exemplo": {
             "rot": "The four findings",
-            "texto": "MailResumo reads the finance team's emails (invoices, suppliers). GravaReunião records clients without notice. The free chatbot receives the client spreadsheet. PlanilhaGênio has access to the whole Drive."
+            "texto": "MailResumo reads the finance team's emails (invoices, suppliers). GravaReuniêo records clients without notice. The free chatbot receives the client spreadsheet. PlanilhaGênio has access to the whole Drive."
           }
         },
         {
@@ -149,7 +149,7 @@
         "abas": [
           {
             "rot": "Horizonte's inventory (example)",
-            "html": "<p><b>AI inventory · sales and nearby areas · Oct/2026</b> · Horizonte, fictional study company · owner: Patrícia with Rafael · survey: 22 of 40</p><ol><li><b>Free chatbot, personal account</b> · sales · proposals · client spreadsheet · <b>cut right away</b>; replace with AI on a company account with a contract, without the whole spreadsheet · Patrícia.</li><li><b>GravaReunião</b> · sales · records visits without notice · clients' voices and conversations · <b>cut recording without notice</b>; replace with note-taking or an approved tool with notice to the client · Patrícia.</li><li><b>MailResumo</b> (extension) · finance · invoice summaries · supplier emails and amounts · <b>cut</b> and evaluate an alternative in the corporate email · Rafael.</li><li><b>PlanilhaGênio</b> (add-on) · finance · formulas · access to the whole Drive · <b>cut the access</b> right away; evaluate an option with access to the spreadsheet only · Rafael.</li><li><b>Daily summary (free service)</b> · customer service · full conversations with tax ID and address, outside Brazil, no contract · <b>suspend and replace</b> with a vendor with a contract and anonymization · Juliana and Rafael.</li></ol><p>2nd round with the department leaders: by 10/31. Next survey: January 2027.</p>"
+            "html": "<p><b>AI inventory · sales and nearby areas · Oct/2026</b> · Horizonte, fictional study company · owner: Patrícia with Rafael · survey: 22 of 40</p><ol><li><b>Free chatbot, personal account</b> · sales · proposals · client spreadsheet · <b>cut right away</b>; replace with AI on a company account with a contract, without the whole spreadsheet · Patrícia.</li><li><b>GravaReuniêo</b> · sales · records visits without notice · clients' voices and conversations · <b>cut recording without notice</b>; replace with note-taking or an approved tool with notice to the client · Patrícia.</li><li><b>MailResumo</b> (extension) · finance · invoice summaries · supplier emails and amounts · <b>cut</b> and evaluate an alternative in the corporate email · Rafael.</li><li><b>PlanilhaGênio</b> (add-on) · finance · formulas · access to the whole Drive · <b>cut the access</b> right away; evaluate an option with access to the spreadsheet only · Rafael.</li><li><b>Daily summary (free service)</b> · customer service · full conversations with tax ID and address, outside Brazil, no contract · <b>suspend and replace</b> with a vendor with a contract and anonymization · Juliana and Rafael.</li></ol><p>2nd round with the department leaders: by 10/31. Next survey: January 2027.</p>"
           },
           {
             "rot": "How to check / common mistakes",
